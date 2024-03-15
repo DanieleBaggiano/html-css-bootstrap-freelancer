@@ -1,28 +1,18 @@
 /* HEADER */
 .menu_bg, .copyright {
     background-color: #2c3e50;
-
-    /* debug */
-    /* height: 50px; */
 }
 
 /* MAIN */
 /* prima parte del main */
 .start_boot {
     background-color: #1abc9c;
-
-    /* debug */
-    /* height: 400px; */
 }
 
 .img_boot {
     margin: 0 auto;
     width: 50%;
     max-width: 300px;
-
-    /* debug */
-    /* height: 100%; */
-    /* background-color: violet; */
 }
 
 .hr_w {
@@ -31,48 +21,15 @@
     border: 1px solid white;
 }
 
-/* griglia */
-/* .portfolio, .about, .button_download, .contact {
-    text-align: center;
-} */
-
 .hr_b {
     height: 0;
     width: 20px;
     border: 1px solid black;
 }
 
-/* .portfolio_item {
-
-    debug
-    border:1px solid green;
-    min-height: 200px;
-}
-   */
-/* @media (min-width: 768px) {
-   .custom-grid .col {
-      flex: 0 0 50%;
-      max-width: calc(50% - 20px);
-    }
-    
-    .custom-grid .col:not(:last-child) {
-        margin-right: 10px;
-    }
-}
-  
-@media (min-width: 992px) {
-   .custom-grid .col {
-      flex: 0 0 33.33%;
-      max-width: calc(33.33% - 30px);
-    }
-} */
-
 /* about griglia */
 .aqua {
     background-color: #1abc9c;
-
-    /* debug */
-    /* height: 300px; */
 }
 
 /* contact me griglia */
@@ -82,10 +39,6 @@
 
 .info {
     background-color: #3a546d;
-
-    /* debug */
-    /* margin-top: 20px; */
-    /* padding-top: 20px; */
 }
 
 .a_color {
@@ -95,15 +48,8 @@
 /* FOOTER */
 .copyright {
     background-color: #2c3e50;
-
-    /* debug */
-    /* height: 50px; */
 }
 
 .website {
     font-size: .7rem;
-
-    /* debug */
-    /* width: 20%; */
-    /* height: 50px; */
 }
