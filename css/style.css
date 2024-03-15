@@ -25,10 +25,22 @@
     /* background-color: violet; */
 }
 
+.hr_w {
+    height: 0;
+    width: 20px;
+    border: 1px solid white;
+}
+
 /* griglia */
 /* .portfolio, .about, .button_download, .contact {
     text-align: center;
 } */
+
+.hr_b {
+    height: 0;
+    width: 20px;
+    border: 1px solid black;
+}
 
 /* .portfolio_item {
 
